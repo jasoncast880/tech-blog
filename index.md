@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: J.C's Technical Blog
 ---
 
