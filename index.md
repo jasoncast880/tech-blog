@@ -2,6 +2,8 @@
 title: Technical Blog - Embedded Systems
 ---
 
+![Untitled](https://github.com/user-attachments/assets/b13db6b8-05f1-4c33-9629-6f8733ab409a)
+
 My Goals in this blog are to document my progress on developing firmware for various embedded platforms. My personal favourite is the RPi Pico series.
 RP2040 and RP3050 are ARM-Cortex M0+ chips with PIO (ASM-made high speed communication protocols), Wifi Capabilities, etc.
 
