@@ -14,3 +14,7 @@ Sockets in Particular are very interesting to me, as they are the majaor buildin
 Being proficcient in debugging and building sockets leads to strong backend developer skills and a solid understanding of internet protocols, multi-threaded systems, and client-server architecture.
 
 I hope to update this blog at least 2 times a month to showcase & store breakthroughs I make on developing my projects.
+
+
+You can view my [Resume](assets/JasonCastillanesResume-1.pdf) or visit my [Github](https://github.com/jasoncast880)
+
